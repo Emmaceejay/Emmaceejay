@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Emmaceejay
+- 👋 Hi, I’m @Ojikeya Chijioke Emmanuel
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning IoT/embedded system designs and implementations
 - 💞️ I want to collaborate on any possible IoT project to help improve my scope and growth.
