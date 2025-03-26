@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Emmaceejay
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning HTML/CSS/JS and on my way to Node.js
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning IoT/embedded system designs and implementations
+- 💞️ I want to collaborate on any possible IoT project to help improve my scope and growth.
 - 📫 How to reach me: email- ojikeya.chijioke@gmail.com.
 
 <!---
